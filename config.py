@@ -66,7 +66,7 @@ USER_REPLY_TEXT = ""
 ADMINS.append(OWNER_ID)
 ADMINS.append(880087645)
 
-LOG_FILE_NAME = "filesharingbot.txt"
+LOG_FILE_NAME = "filesharingbot1.txt"
 
 logging.basicConfig(
     level=logging.INFO,
